@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.listContainer {
+  border: 1px solid #d7dae6;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.questionTextContainer {
+  display: flex;
+  padding: 4px;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+
+.btn {
+  background-color: transparent;
+  border: none;
+}
+
+.hrLine {
+  border: 1px solid #d7dae6;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.text {
+  color: #d7dae6;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
